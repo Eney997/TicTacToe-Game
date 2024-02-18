@@ -1,4 +1,4 @@
-type Player = 'X' | 'O' | null
+type Player = 'X' | 'O' | "BOTH" | null
 
 const Squear = ({
     value,onClick,winner
