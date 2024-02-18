@@ -79,6 +79,7 @@ const Board = () => {
 
 export default Board
 
+
 const Rbut = styled.button`
     width: 100px;
     height: 50px;
@@ -87,6 +88,7 @@ const Rbut = styled.button`
     border: none;
     margin-top: 20px;
     cursor: pointer;
+    border-radius: 90px;
 `
 
 const SDiv = styled.div`
@@ -99,5 +101,6 @@ const SDiv = styled.div`
     margin-top: 30px;
 `
 const Sp = styled.p `
-    color: #ff00ff;
+    color: #eeff00;
 `
+
